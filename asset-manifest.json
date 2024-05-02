@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/yseoo/static/css/main.053bb3db.chunk.css",
+    "main.js": "/yseoo/static/js/main.a88adef4.chunk.js",
+    "main.js.map": "/yseoo/static/js/main.a88adef4.chunk.js.map",
+    "runtime-main.js": "/yseoo/static/js/runtime-main.3566c1d9.js",
+    "runtime-main.js.map": "/yseoo/static/js/runtime-main.3566c1d9.js.map",
+    "static/js/2.051f4278.chunk.js": "/yseoo/static/js/2.051f4278.chunk.js",
+    "static/js/2.051f4278.chunk.js.map": "/yseoo/static/js/2.051f4278.chunk.js.map",
+    "index.html": "/yseoo/index.html",
+    "precache-manifest.9bc8ddc5c9860b83056d514f20f712d5.js": "/yseoo/precache-manifest.9bc8ddc5c9860b83056d514f20f712d5.js",
+    "service-worker.js": "/yseoo/service-worker.js",
+    "static/css/main.053bb3db.chunk.css.map": "/yseoo/static/css/main.053bb3db.chunk.css.map",
+    "static/media/index.css": "/yseoo/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/ada.webp": "/yseoo/static/media/ada.a25ebc58.webp",
+    "static/media/archipellago.png": "/yseoo/static/media/archipellago.505b7b47.png",
+    "static/media/all.css": "/yseoo/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/firefighter.gif": "/yseoo/static/media/firefighter.5f38c747.gif",
+    "static/media/logo-01.png": "/yseoo/static/media/logo-01.6bc82327.png",
+    "static/media/mbaimclr.png": "/yseoo/static/media/mbaimclr.32c10656.png",
+    "static/media/mems.gif": "/yseoo/static/media/mems.7e5a7c0d.gif",
+    "static/media/micro.png": "/yseoo/static/media/micro.05be415d.png",
+    "static/media/pedestrian.gif": "/yseoo/static/media/pedestrian.7d07037b.gif",
+    "static/media/planner.gif": "/yseoo/static/media/planner.59af5245.gif",
+    "static/media/proto_farm.png": "/yseoo/static/media/proto_farm.b967acfb.png",
+    "static/media/semoir.png": "/yseoo/static/media/semoir.bc7d9101.png",
+    "static/media/silex.png": "/yseoo/static/media/silex.f5ad03d7.png",
+    "static/media/syslog.gif": "/yseoo/static/media/syslog.ddd8b9c1.gif",
+    "static/media/waste_detection.jpg": "/yseoo/static/media/waste_detection.a1c61269.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3566c1d9.js",
+    "static/js/2.051f4278.chunk.js",
+    "static/css/main.053bb3db.chunk.css",
+    "static/js/main.a88adef4.chunk.js"
+  ]
+}
